@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/halloween-memo/static/css/main.04fc2888.css",
+    "main.js": "/halloween-memo/static/js/main.148fafaf.js",
+    "static/js/453.17e359bd.chunk.js": "/halloween-memo/static/js/453.17e359bd.chunk.js",
+    "index.html": "/halloween-memo/index.html",
+    "main.04fc2888.css.map": "/halloween-memo/static/css/main.04fc2888.css.map",
+    "main.148fafaf.js.map": "/halloween-memo/static/js/main.148fafaf.js.map",
+    "453.17e359bd.chunk.js.map": "/halloween-memo/static/js/453.17e359bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04fc2888.css",
+    "static/js/main.148fafaf.js"
+  ]
+}
